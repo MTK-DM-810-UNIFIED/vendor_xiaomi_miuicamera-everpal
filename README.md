@@ -1,1 +1,1 @@
-# vendor_xiaomi_camera-everpal
+# vendor_xiaomi_miuicamera-everpal
